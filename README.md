@@ -1,6 +1,6 @@
 # Rajdeep-Tech-Education
 Rajdeep Tech Education Portal 🚀
-Rajdeep Tech Education is a professional web-based platform designed for modern coaching institutes specializing in Computer Science and Engineering. This project showcases a clean, structured interface for students to explore high-demand technical courses and expert faculty.
+Rajdeep Tech Education is a professional web-based platform designed for modern coaching institutes specializing in Computer Science and Engineering. This project focuses on a clean, structured interface for students to explore technical courses and faculty details.
 
 📌 Project Overview
 As a Computer Science (AI & ML) specialist, I developed this portal to provide a one-stop solution for tech education. The platform is built with a focus on usability, organized data presentation, and clear navigation for aspiring engineers.
@@ -14,17 +14,17 @@ AI & Machine Learning Focus: Integrated content for future technologies, alignin
 
 Structured Information: Utilizes HTML tables to present course details, durations, and fee structures effectively.
 
-Custom Branding: Features a unique "RT" circular logo and personalized styling to maintain professional originality.
+Clean Branding: Features a unique "RT" initial-based branding and personalized layout to maintain professional originality.
 
 🛠️ Tech Stack
 Frontend: HTML5 (Semantic elements like <header>, <nav>, <main>, and <footer>).
 
-Styling: Custom CSS for layout, typography, and circular branding components.
+Layout Management: HTML attributes and inline styling for alignment and circular branding components.
 
 Development Environment: VS Code.
 
 📂 Folder Structure
-index.html — The landing page showcasing the institute's vision and "Why Choose Us" section.
+index.html — The main landing page showcasing the institute's vision and "Why Choose Us" section.
 
 coachingcourse.html — Comprehensive table of technical courses and pricing.
 
